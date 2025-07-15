@@ -1,4 +1,6 @@
-title: 李俊紅のホームページ
-description: 北海道大学 修士1年生・日本ドラマに興味
-theme: jekyll-theme-cayman
+title: Architect theme
+description: Architect is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-architect
 url: "https://lijunhong24.github.io"
