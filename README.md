@@ -1,2 +1,4 @@
-## Hi there 👋
-# 👋 はじめまして、李俊紅（リ・シュンコウ）です！
+## My Hometown
+## LIJUNHONG
+### XIAN
+## 北海道大学
