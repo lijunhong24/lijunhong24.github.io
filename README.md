@@ -1,7 +1,9 @@
 Nice to meet you! I'm Junhong Li 
 
 🎓studying at Hokkaido University
-📍 Living in Sapporo at the moment
+📍 Living in Sapporo from 2023
+📖Lately, I'm interested in researching how textual media—especially TV dramas—are received across different regions in the context of globalization,
+as well as analyzing the texts of the dramas themselves.
 🌱 Hobbies: Traveling ✈️ I love enjoying beautiful scenery, experiencing different cultures, and exploring new places on foot.
 📷 I also like capturing memories with my camera from time to time.
 
